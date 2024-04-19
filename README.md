@@ -2,9 +2,10 @@
 
 <br> <br>
 > ### 🏆 Sobre mim <br> 
->#### - 🎮 Sou de Ibirité, Região Retropolitana de Belo Horizonte, MG! ####
+>#### - 🎮 Sou de Ibirité, Região Metropolitana de Belo Horizonte, MG! ####
 >#### - 🥇 Formado em Técnico Desenvolvimento de Sistemas pelo Senai. ####
 >#### - 🎓 Cursando Bacharelado em Ciências da Computação na UNA. ####
+>#### - 📚 Diversos certificados e estudos feitos na área! ####
 >#### - 🎯 Aqui terão vários projetos de estudo e trabalho meus... ####
 
 >### 🥇 Linguagens utilizadas <br>

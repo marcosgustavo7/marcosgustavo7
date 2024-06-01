@@ -18,3 +18,5 @@
 ><img src="https://cdn.iconscout.com/icon/free/png-256/free-java-2038875-1720088.png" alt="java" width="50" height="45" />  
   ><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="37" height="37" />
 
+>### Contatos <br>
+<a href=https://www.linkedin.com/in/marcos-gustavo-271152223/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
